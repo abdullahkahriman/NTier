@@ -1,0 +1,8 @@
+C:\PROJECTS\CUSTOM\NTier\NTier.Core\bin\Debug\netcoreapp3.1\NTier.Core.deps.json
+C:\PROJECTS\CUSTOM\NTier\NTier.Core\bin\Debug\netcoreapp3.1\NTier.Core.dll
+C:\PROJECTS\CUSTOM\NTier\NTier.Core\bin\Debug\netcoreapp3.1\NTier.Core.pdb
+C:\PROJECTS\CUSTOM\NTier\NTier.Core\obj\Debug\netcoreapp3.1\NTier.Core.csprojAssemblyReference.cache
+C:\PROJECTS\CUSTOM\NTier\NTier.Core\obj\Debug\netcoreapp3.1\NTier.Core.AssemblyInfoInputs.cache
+C:\PROJECTS\CUSTOM\NTier\NTier.Core\obj\Debug\netcoreapp3.1\NTier.Core.AssemblyInfo.cs
+C:\PROJECTS\CUSTOM\NTier\NTier.Core\obj\Debug\netcoreapp3.1\NTier.Core.dll
+C:\PROJECTS\CUSTOM\NTier\NTier.Core\obj\Debug\netcoreapp3.1\NTier.Core.pdb

@@ -1,0 +1,1 @@
+C:\PROJECTS\CUSTOM\NTier\NTier.API\obj\Debug\netcoreapp3.1\NTier.API.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\PROJECTS\CUSTOM\NTier\NTier.Data.Context\bin\Debug\netcoreapp3.1\NTier.Data.Context.deps.json
+C:\PROJECTS\CUSTOM\NTier\NTier.Data.Context\bin\Debug\netcoreapp3.1\NTier.Data.Context.runtimeconfig.json
+C:\PROJECTS\CUSTOM\NTier\NTier.Data.Context\bin\Debug\netcoreapp3.1\NTier.Data.Context.runtimeconfig.dev.json
+C:\PROJECTS\CUSTOM\NTier\NTier.Data.Context\bin\Debug\netcoreapp3.1\NTier.Data.Context.dll
+C:\PROJECTS\CUSTOM\NTier\NTier.Data.Context\bin\Debug\netcoreapp3.1\NTier.Data.Context.pdb
+C:\PROJECTS\CUSTOM\NTier\NTier.Data.Context\bin\Debug\netcoreapp3.1\NTier.Core.dll
+C:\PROJECTS\CUSTOM\NTier\NTier.Data.Context\bin\Debug\netcoreapp3.1\NTier.Data.Model.dll
+C:\PROJECTS\CUSTOM\NTier\NTier.Data.Context\bin\Debug\netcoreapp3.1\NTier.Data.Model.pdb
+C:\PROJECTS\CUSTOM\NTier\NTier.Data.Context\bin\Debug\netcoreapp3.1\NTier.Core.pdb
+C:\PROJECTS\CUSTOM\NTier\NTier.Data.Context\obj\Debug\netcoreapp3.1\NTier.Data.Context.csprojAssemblyReference.cache
+C:\PROJECTS\CUSTOM\NTier\NTier.Data.Context\obj\Debug\netcoreapp3.1\NTier.Data.Context.AssemblyInfoInputs.cache
+C:\PROJECTS\CUSTOM\NTier\NTier.Data.Context\obj\Debug\netcoreapp3.1\NTier.Data.Context.AssemblyInfo.cs
+C:\PROJECTS\CUSTOM\NTier\NTier.Data.Context\obj\Debug\netcoreapp3.1\NTier.Data.Context.csproj.CopyComplete
+C:\PROJECTS\CUSTOM\NTier\NTier.Data.Context\obj\Debug\netcoreapp3.1\NTier.Data.Context.dll
+C:\PROJECTS\CUSTOM\NTier\NTier.Data.Context\obj\Debug\netcoreapp3.1\NTier.Data.Context.pdb

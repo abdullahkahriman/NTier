@@ -1,0 +1,3 @@
+C:\PROJECTS\CUSTOM\NTier\NTier.Data.Service\obj\Debug\netcoreapp3.1\NTier.Data.Service.csprojAssemblyReference.cache
+C:\PROJECTS\CUSTOM\NTier\NTier.Data.Service\obj\Debug\netcoreapp3.1\NTier.Data.Service.AssemblyInfoInputs.cache
+C:\PROJECTS\CUSTOM\NTier\NTier.Data.Service\obj\Debug\netcoreapp3.1\NTier.Data.Service.AssemblyInfo.cs
