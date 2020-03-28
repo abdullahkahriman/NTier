@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using NTier.Data.Context.Context;
 
 namespace NTier.Data.Context.Migrations
 {
     [DbContext(typeof(NTierDBContext))]
-    partial class NTierDBContextModelSnapshot : ModelSnapshot
+    [Migration("20200328142808_updateBook_required")]
+    partial class updateBook_required
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
