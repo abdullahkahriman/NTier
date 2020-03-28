@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using NTier.API.Middleware;
 using NTier.Data.Service;
 
 namespace NTier.API
@@ -43,6 +44,8 @@ namespace NTier.API
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseMiddleware<AuthorizationMiddleware>();
 
             app.UseEndpoints(endpoints =>
             {

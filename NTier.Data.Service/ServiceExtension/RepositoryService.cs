@@ -1,5 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using NTier.Data.Model.Entity;
+using NTier.Data.Model.System;
+using NTier.Data.Service.Interface;
 
 namespace NTier.Data.Service
 {
@@ -9,12 +11,8 @@ namespace NTier.Data.Service
         {
             services.AddDbContextService();
             services.AddTransient<IRepository<Book>, BookService>();
-            //services.AddTransient<IRepository<Comment>, CommentService>();
-            //services.AddTransient<IRepository<Role>, RoleService>();
-            //services.AddTransient<IRepository<RoleSystemAction>, RoleSystemActionService>();
-            //services.AddTransient<IRepository<SystemAction>, SystemActionService>();
-            //services.AddTransient<IRepository<User>, UserService>();
-            //services.AddTransient<IAuthorizationService, AuthorizationService>();
+            services.AddTransient<IRepository<User>, UserService>();
+            services.AddTransient<IAuthorizationService, AuthorizationService>();
             return services;
         }
     }
